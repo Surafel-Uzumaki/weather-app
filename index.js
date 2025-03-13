@@ -6,7 +6,7 @@ let cityName = "";
 const inputValue = document.getElementById("input");
 const weatherIcon = document.querySelector(".weather-icon");
 const btn = document.getElementById("sbtn");
-const apiKey = "8db6dd9a1d8ff1584f8e207940224096";
+const apiKey = "";
 const apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
